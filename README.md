@@ -3,10 +3,12 @@ A website which guides about fitness and health. This is my first web project to
 
 ### Hackathon Details :
 Problem No. - 24
+<br>
 Title - Student Innovation (Fitness & Sports)
+<br>
 Description - Ideas that can boost fitness activities and assist in keeping fit.
 
-## About Page:
+### About Page:
 Gives basic information about the website.
 
 ### BMI: (Features to be added.)
@@ -27,6 +29,8 @@ Allocated for frequently asked questions but not ready yet.
 ### Contact:
 Shows contact information of the developing team.
 
-
+## Developers :
+Night Hunters
+<br> - by Rajnish Kumar Gupta and Prince Anand
 
 
