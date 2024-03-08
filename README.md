@@ -1,7 +1,7 @@
 # Hack Fit Website
 A website which guides about fitness and health. This is my first web project to practice in web development. Coded by using only HTML, CSS and JavaScript.
 
-### About Page:
+## About Page:
 Gives basic information about the website.
 
 ### BMI: (Features to be added.)
